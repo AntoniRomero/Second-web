@@ -1,0 +1,35 @@
+﻿*{
+    
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+  font-family: 'Kumbh Sans',sans-serif;
+  background-color: #ff8177;
+}
+
+.contenedor-products{
+ 
+    display: flex;
+    align-items: center;
+    list-style: none;
+    text-align: center;
+}
+
+.articulo{
+  display: flex;
+  text-decoration: none;
+  padding: 10px 20px;
+  height: 100%;
+  width: 100%;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  background: #f77062;
+  color: #fff;
+  }
+
+
+
+
+
+
